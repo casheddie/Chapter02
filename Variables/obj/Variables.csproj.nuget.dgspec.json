@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/parallels/RiderProjects/Chapter02/Variables/Variables.csproj": {}
+    "/Users/ereed/RiderProjects/Chapter02/Variables/Variables.csproj": {}
   },
   "projects": {
-    "/home/parallels/RiderProjects/Chapter02/Variables/Variables.csproj": {
+    "/Users/ereed/RiderProjects/Chapter02/Variables/Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/parallels/RiderProjects/Chapter02/Variables/Variables.csproj",
+        "projectUniqueName": "/Users/ereed/RiderProjects/Chapter02/Variables/Variables.csproj",
         "projectName": "Variables",
-        "projectPath": "/home/parallels/RiderProjects/Chapter02/Variables/Variables.csproj",
-        "packagesPath": "/home/parallels/.nuget/packages/",
-        "outputPath": "/home/parallels/RiderProjects/Chapter02/Variables/obj/",
+        "projectPath": "/Users/ereed/RiderProjects/Chapter02/Variables/Variables.csproj",
+        "packagesPath": "/Users/ereed/.nuget/packages/",
+        "outputPath": "/Users/ereed/RiderProjects/Chapter02/Variables/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/parallels/.nuget/NuGet/NuGet.Config"
+          "/Users/ereed/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/parallels/.dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/ereed/.dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

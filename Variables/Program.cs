@@ -38,3 +38,5 @@ XmlDocument xml2 = new XmlDocument(); // works with all C# versions.
 // should use a specific type declaration as shown in the second statement.
 var file1 = File.CreateText("something.txt");
 StreamWriter file2 = File.CreateText("somthing2.txt");
+
+Console.Write("tes");
