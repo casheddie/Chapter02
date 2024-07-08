@@ -40,3 +40,4 @@ var file1 = File.CreateText("something.txt");
 StreamWriter file2 = File.CreateText("somthing2.txt");
 
 Console.Write("tes");
+Console.WriteLine("dooood");
