@@ -1,0 +1,14 @@
+/home/parallels/RiderProjects/Chapter02/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/parallels/RiderProjects/Chapter02/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/home/parallels/RiderProjects/Chapter02/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/home/parallels/RiderProjects/Chapter02/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/home/parallels/RiderProjects/Chapter02/Variables/bin/Debug/net8.0/Variables
+/home/parallels/RiderProjects/Chapter02/Variables/bin/Debug/net8.0/Variables.deps.json
+/home/parallels/RiderProjects/Chapter02/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/home/parallels/RiderProjects/Chapter02/Variables/bin/Debug/net8.0/Variables.dll
+/home/parallels/RiderProjects/Chapter02/Variables/bin/Debug/net8.0/Variables.pdb
+/home/parallels/RiderProjects/Chapter02/Variables/obj/Debug/net8.0/Variables.dll
+/home/parallels/RiderProjects/Chapter02/Variables/obj/Debug/net8.0/refint/Variables.dll
+/home/parallels/RiderProjects/Chapter02/Variables/obj/Debug/net8.0/Variables.pdb
+/home/parallels/RiderProjects/Chapter02/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/home/parallels/RiderProjects/Chapter02/Variables/obj/Debug/net8.0/ref/Variables.dll

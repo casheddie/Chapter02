@@ -42,3 +42,22 @@ else
 {
     Console.WriteLine($"{a} + {b} does NOT equal {0.3}");
 }
+
+Console.WriteLine("Using decimals:");
+decimal c = 0.1M;
+decimal d = 0.2M;
+
+if (c + d == 0.3M)
+{
+    Console.WriteLine($"{c} + {d} equals {0.3M}");
+}
+else
+{
+    Console.WriteLine($"{c} + {d} does NOT equal {0.3M}");
+}
+
+unsafe
+{
+    Console.WriteLine($"Half uses {sizeof(Half)} bytes and can store numbers in the range {Half.MinValue:N0} to {Half.MaxValue:N0}");
+    Console.WriteLine($"Int128 uses {sizeof(Int128)} bytes and can store numbers in the range {Int128.MinValue:N0} to {Int128.MaxValue:N0}");
+}
