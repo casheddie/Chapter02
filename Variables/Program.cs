@@ -39,5 +39,6 @@ XmlDocument xml2 = new XmlDocument(); // works with all C# versions.
 var file1 = File.CreateText("something.txt");
 StreamWriter file2 = File.CreateText("somthing2.txt");
 
-Console.Write("tes");
-Console.WriteLine("dooood");
+Console.WriteLine();
+Console.WriteLine("test");
+Console.WriteLine(2+12);

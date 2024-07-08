@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fsVOtGZkwbIom0Tal45gI4gebXIwoXNcgGllkIElMIlJl5tnAuSg0LIBgLRBU837AXnbGOqB9ep9BSMDknO7vA==",
+  "dgSpecHash": "o+isoGBEvjvlLxOc/8nuolPutowQZEhQhDrnuN+jazUCaeRitjFqXf0I8bRHzASInH573IA/zOK1XUX2804TNw==",
   "success": true,
-  "projectFilePath": "/Users/ereed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj",
+  "projectFilePath": "/home/eddie-reed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

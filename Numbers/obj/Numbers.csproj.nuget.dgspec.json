@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ereed/RiderProjects/Chapter02/Numbers/Numbers.csproj": {}
+    "/home/eddie-reed/RiderProjects/Chapter02/Numbers/Numbers.csproj": {}
   },
   "projects": {
-    "/Users/ereed/RiderProjects/Chapter02/Numbers/Numbers.csproj": {
+    "/home/eddie-reed/RiderProjects/Chapter02/Numbers/Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ereed/RiderProjects/Chapter02/Numbers/Numbers.csproj",
+        "projectUniqueName": "/home/eddie-reed/RiderProjects/Chapter02/Numbers/Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "/Users/ereed/RiderProjects/Chapter02/Numbers/Numbers.csproj",
-        "packagesPath": "/Users/ereed/.nuget/packages/",
-        "outputPath": "/Users/ereed/RiderProjects/Chapter02/Numbers/obj/",
+        "projectPath": "/home/eddie-reed/RiderProjects/Chapter02/Numbers/Numbers.csproj",
+        "packagesPath": "/home/eddie-reed/.nuget/packages/",
+        "outputPath": "/home/eddie-reed/RiderProjects/Chapter02/Numbers/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ereed/.nuget/NuGet/NuGet.Config"
+          "/home/eddie-reed/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/ereed/.dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
