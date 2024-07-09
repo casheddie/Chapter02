@@ -1,0 +1,15 @@
+/Users/ereed/RiderProjects/Chapter02/Formatting/bin/Debug/net8.0/Formatting
+/Users/ereed/RiderProjects/Chapter02/Formatting/bin/Debug/net8.0/Formatting.deps.json
+/Users/ereed/RiderProjects/Chapter02/Formatting/bin/Debug/net8.0/Formatting.runtimeconfig.json
+/Users/ereed/RiderProjects/Chapter02/Formatting/bin/Debug/net8.0/Formatting.dll
+/Users/ereed/RiderProjects/Chapter02/Formatting/bin/Debug/net8.0/Formatting.pdb
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfoInputs.cache
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfo.cs
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/Formatting.csproj.CoreCompileInputs.cache
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/Formatting.sourcelink.json
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/Formatting.dll
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/refint/Formatting.dll
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/Formatting.pdb
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/Formatting.genruntimeconfig.cache
+/Users/ereed/RiderProjects/Chapter02/Formatting/obj/Debug/net8.0/ref/Formatting.dll
