@@ -39,5 +39,14 @@ XmlDocument xml2 = new XmlDocument(); // works with all C# versions.
 var file1 = File.CreateText("something.txt");
 StreamWriter file2 = File.CreateText("somthing2.txt");
 
-Console.Write("tes");
-Console.WriteLine("dooood");
+Console.WriteLine();
+Console.WriteLine($"default(int) = {default(int)}");
+Console.WriteLine($"default(bool) = {default(bool)}");
+Console.WriteLine($"default(DateTime) = {default(DateTime)}");
+Console.WriteLine($"default(string) = {default(string)}");
+
+Console.WriteLine();
+int number = 13;
+Console.WriteLine($"number set to: {number}");
+number = default;
+Console.WriteLine($"number reset to its default: {number}");
