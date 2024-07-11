@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/eddie-reed/.nuget/packages/": {}
+    "/Users/ereed/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eddie-reed/RiderProjects/Chapter02/Variables/Variables.csproj",
+      "projectUniqueName": "/Users/ereed/RiderProjects/Chapter02/Variables/Variables.csproj",
       "projectName": "Variables",
-      "projectPath": "/home/eddie-reed/RiderProjects/Chapter02/Variables/Variables.csproj",
-      "packagesPath": "/home/eddie-reed/.nuget/packages/",
-      "outputPath": "/home/eddie-reed/RiderProjects/Chapter02/Variables/obj/",
+      "projectPath": "/Users/ereed/RiderProjects/Chapter02/Variables/Variables.csproj",
+      "packagesPath": "/Users/ereed/.nuget/packages/",
+      "outputPath": "/Users/ereed/RiderProjects/Chapter02/Variables/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/eddie-reed/.nuget/NuGet/NuGet.Config"
+        "/Users/ereed/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/ereed/.dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

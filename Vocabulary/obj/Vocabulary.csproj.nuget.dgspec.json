@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/eddie-reed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj": {}
+    "/Users/ereed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj": {}
   },
   "projects": {
-    "/home/eddie-reed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj": {
+    "/Users/ereed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/eddie-reed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj",
+        "projectUniqueName": "/Users/ereed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj",
         "projectName": "Vocabulary",
-        "projectPath": "/home/eddie-reed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj",
-        "packagesPath": "/home/eddie-reed/.nuget/packages/",
-        "outputPath": "/home/eddie-reed/RiderProjects/Chapter02/Vocabulary/obj/",
+        "projectPath": "/Users/ereed/RiderProjects/Chapter02/Vocabulary/Vocabulary.csproj",
+        "packagesPath": "/Users/ereed/.nuget/packages/",
+        "outputPath": "/Users/ereed/RiderProjects/Chapter02/Vocabulary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/eddie-reed/.nuget/NuGet/NuGet.Config"
+          "/Users/ereed/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/ereed/.dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

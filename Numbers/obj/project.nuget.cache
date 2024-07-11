@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GxVSA3aDD2dNRjUrpbl2dfLvY8Z9ADcjqtWRKJJdI28770zH3zvy4thNt45mkBISjUUxteBy3XoSpH/YtIHKgw==",
+  "dgSpecHash": "XU/F+K5eyp02Qs+wGuYgbLZi+LfUHaCkiZc53B2UpEiHengtlNBAU+lyTZYSxWtr8NHfJLsVDxcm9UYP9h9ckg==",
   "success": true,
-  "projectFilePath": "/home/eddie-reed/RiderProjects/Chapter02/Numbers/Numbers.csproj",
+  "projectFilePath": "/Users/ereed/RiderProjects/Chapter02/Numbers/Numbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

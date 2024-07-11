@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4JsdpdgR6X8MuxsW+aVY/aFoSoQDrzbHvm4rod08wE5f4H6it/2AsDiTExJvpEenSjePZLzxkHOrnYvgDXXbug==",
+  "dgSpecHash": "aKIC4rJd84L01iVEFYVa0jULPpx2xYYXr7CLPdplH0rsRhf1FCpdzG1s/3O1Ia/6A2bmlSTyv29vFTtpgQgbWw==",
   "success": true,
-  "projectFilePath": "/home/eddie-reed/RiderProjects/Chapter02/Variables/Variables.csproj",
+  "projectFilePath": "/Users/ereed/RiderProjects/Chapter02/Variables/Variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

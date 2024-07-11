@@ -1,8 +1,9 @@
 ﻿using System.Threading.Tasks.Dataflow;
 
+
 int numberOfApples = 12;
 decimal pricePerApple = 0.35M;
-Console.WriteLine(format: "{0} apples cost {1:C}",
+WriteLine(format: "{0} apples cost {1:C}",
  arg0: numberOfApples,
  arg1: pricePerApple*numberOfApples);
 string formatted = string.Format(
@@ -11,10 +12,24 @@ string formatted = string.Format(
  arg1: pricePerApple*numberOfApples);
 // WriteToFile(formatted); // Writes the string into a files.
 
-Console.WriteLine();
+WriteLine();
 // Three parameter values can use named argumwents
-Console.WriteLine("{0} {1} lived in {2}.", arg0: "Roger", arg1: "Cevung", arg2: "Stockholm");
+WriteLine("{0} {1} lived in {2}.", arg0: "Roger", arg1: "Cevung", arg2: "Stockholm");
 // Four or more parameter values cannot use named arguments.
-Console.WriteLine(
+WriteLine(
  "{0} {1} lived in {2} and worked in the {3} team at {4}.",
- "Roger", "Ceveung", "Stockholm", "Education", "Optimizely"); 
+ "Roger", "Ceveung", "Stockholm", "Education", "Optimizely");
+
+WriteLine();
+
+Write("Type your first name and press ENTER: ");
+string? firstName = ReadLine();
+Write("Type your age and press ENTER: ");
+string age = ReadLine()!;
+WriteLine($"Hello {firstName}, you look good for {age}.");
+
+WriteLine();
+Write("Press any key combination: ");
+ConsoleKeyInfo key = ReadKey();
+WriteLine();
+WriteLine("Key: {0}, Char: {1}, Modifiers: {2}", arg0:key.Key, arg1: key.KeyChar, arg2: key.Modifiers);
