@@ -5,52 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f341f74-813a-4fe2-aa30-89993f854922" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Numbers.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/bin/Debug/net8.0/Formatting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/bin/Debug/net8.0/Formatting.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/bin/Debug/net8.0/Formatting.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/bin/Debug/net8.0/Formatting.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/Formatting.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/ref/Formatting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/ref/Formatting.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/refint/Formatting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/obj/Debug/net8.0/refint/Formatting.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Formatting/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Formatting/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/Arguments.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/bin/Debug/net8.0/Arguments" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/bin/Debug/net8.0/Arguments.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/bin/Debug/net8.0/Arguments.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/bin/Debug/net8.0/Arguments.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/bin/Debug/net8.0/Arguments.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Arguments.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Arguments.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Arguments.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/Arguments.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/apphost" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/ref/Arguments.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/Debug/net8.0/refint/Arguments.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arguments/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter02.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter02.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Numbers.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Numbers.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Numbers.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Numbers.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Numbers.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Numbers.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Numbers.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Numbers.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Numbers.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Numbers.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/Debug/net8.0/Variables.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/Debug/net8.0/Variables.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/Variables.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/Variables.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/Variables.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/Variables.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/Debug/net8.0/Vocabulary.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/Debug/net8.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/Debug/net8.0/Vocabulary.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/Debug/net8.0/Vocabulary.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/Debug/net8.0/Vocabulary.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/Vocabulary.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/Vocabulary.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/Vocabulary.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/Vocabulary.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Vocabulary/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Vocabulary/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,21 +46,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "casheddie"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;casheddie&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/casheddie/Chapter02.git",
-    "accountId": "bb1bb46a-c7c9-4fc5-aa26-5fe6b94637e7"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/casheddie/Chapter02.git&quot;,
+    &quot;accountId&quot;: &quot;bb1bb46a-c7c9-4fc5-aa26-5fe6b94637e7&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2j3YYgvINWQk2F7pZ4MEJUXhwhb" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -85,7 +71,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/Users/ereed/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
+      "/Users/ereed/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
+      "/Users/ereed/Library/Application Support/Symbols/src"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -117,6 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720617276317</updated>
       <workItem from="1720617277358" duration="89000" />
+      <workItem from="1720697234787" duration="61000" />
     </task>
     <servers />
   </component>

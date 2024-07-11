@@ -1,0 +1,15 @@
+/Users/ereed/RiderProjects/Chapter02/Arguments/bin/Debug/net8.0/Arguments
+/Users/ereed/RiderProjects/Chapter02/Arguments/bin/Debug/net8.0/Arguments.deps.json
+/Users/ereed/RiderProjects/Chapter02/Arguments/bin/Debug/net8.0/Arguments.runtimeconfig.json
+/Users/ereed/RiderProjects/Chapter02/Arguments/bin/Debug/net8.0/Arguments.dll
+/Users/ereed/RiderProjects/Chapter02/Arguments/bin/Debug/net8.0/Arguments.pdb
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfoInputs.cache
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfo.cs
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/Arguments.sourcelink.json
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/Arguments.dll
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/refint/Arguments.dll
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/Arguments.pdb
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/Arguments.genruntimeconfig.cache
+/Users/ereed/RiderProjects/Chapter02/Arguments/obj/Debug/net8.0/ref/Arguments.dll
