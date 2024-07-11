@@ -1,0 +1,15 @@
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.deps.json
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.runtimeconfig.json
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.dll
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/bin/Debug/net8.0/AsyncConsole.pdb
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.AssemblyInfoInputs.cache
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.AssemblyInfo.cs
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.sourcelink.json
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.dll
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/refint/AsyncConsole.dll
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.pdb
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/AsyncConsole.genruntimeconfig.cache
+/Users/ereed/RiderProjects/Chapter02/AsyncConsole/obj/Debug/net8.0/ref/AsyncConsole.dll
