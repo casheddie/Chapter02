@@ -1,0 +1,15 @@
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers.deps.json
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers.runtimeconfig.json
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers.dll
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/bin/Debug/net8.0/Ch02Ex03Numbers.pdb
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.AssemblyInfoInputs.cache
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.AssemblyInfo.cs
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.csproj.CoreCompileInputs.cache
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.sourcelink.json
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.dll
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/refint/Ch02Ex03Numbers.dll
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.pdb
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/Ch02Ex03Numbers.genruntimeconfig.cache
+/Users/ereed/RiderProjects/Chapter02/Ch02Ex03Numbers/obj/Debug/net8.0/ref/Ch02Ex03Numbers.dll

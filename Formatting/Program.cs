@@ -20,7 +20,15 @@ WriteLine(
  "{0} {1} lived in {2} and worked in the {3} team at {4}.",
  "Roger", "Ceveung", "Stockholm", "Education", "Optimizely");
 
+string applesText = "Apples";
+int applesCount = 1234;
+string bananasText = "Bananas";
+int bananasCount = 56789;
 WriteLine();
+
+WriteLine(format: "{0,-10} {1,6}", arg0: "Name", arg1: "Count");
+WriteLine(format: "{0,-10} {1,6:N0}", arg0: applesText, arg1: applesCount);
+WriteLine(format: "{0,-10} {1,6:N0}", arg0: bananasText, arg1: bananasCount);
 
 Write("Type your first name and press ENTER: ");
 string? firstName = ReadLine();
